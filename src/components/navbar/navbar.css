@@ -1,0 +1,84 @@
+.navbar {
+  background: #0964e4;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  list-style-type: none;
+  height: auto;
+}
+
+.link {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  vertical-align: middle;
+  margin: 8px;
+  letter-spacing: 2px;
+}
+#heading {
+  color: #feffff;
+  font-size: xx-large;
+  font-weight: 800;
+  padding: 10px;
+  letter-spacing: 3px;
+  text-shadow: 4px 1px 6px rgba(255, 255, 255, 0.6);
+}
+.divcenter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-items: center;
+}
+.studentsList {
+  list-style-type: none;
+  margin-left: 5rem;
+}
+.headul {
+  color: #084cac;
+  text-shadow: 4px 1px 6px rgba(88, 177, 204, 0.6);
+}
+.liststu {
+  color: #247397;
+  font-size: 1.3rem;
+  margin-left: 1rem;
+  font-weight: 500;
+  font-family: sans-serif;
+  text-shadow: 4px 1px 6px rgba(88, 177, 204, 0.6);
+}
+.add-mentors {
+  padding: 10px;
+  margin: 50px;
+}
+.image {
+  width: 300px;
+  margin: auto 200px;
+}
+
+.headLine {
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  font-size: 30px;
+  color: #0964e4;
+  font-weight: 700;
+  text-align: center;
+  text-shadow: 4px 1px 6px rgba(123, 160, 230, 0.6);
+}
+.footer {
+  color: rgb(211, 209, 209);
+  text-align: center;
+  background: #0964e4;
+  padding: 20px;
+  margin-top: 20px;
+}
+#assignButton {
+  margin: 50px;
+}
+#changeMentor {
+  margin: 35px;
+}
+#findStudents {
+  margin: 30px;
+}
+.addForm {
+  display: block;
+  margin: 30px;
+}
